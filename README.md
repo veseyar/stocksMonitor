@@ -13,7 +13,7 @@
 ![image](https://user-images.githubusercontent.com/99877154/154850992-f9b3bece-0052-4479-8fef-5153e343a85a.png)
 
 ## Установка  
-  Проект работает "из коробки", всё что нужно сделать — поместить token Tinkoff Invest API в Parameters в классе main.   
+  Проект работает "из коробки", всё что нужно сделать — создать .env по примеру .env.sample и помеместить ваш token Tinkoff Invest API.   
   Получить token Tinkoff Invest API можно по ссылке: https://www.tinkoff.ru/invest/settings/api/ (аутентификация обязательна)
 ## Принцип работы  
   1. Прописываем токен в параметре класса Parameters
